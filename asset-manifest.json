@@ -1,22 +1,28 @@
 {
   "files": {
-    "main.css": "/gaut_m/static/css/main.74b7617a.chunk.css",
-    "main.js": "/gaut_m/static/js/main.46daabc0.chunk.js",
-    "main.js.map": "/gaut_m/static/js/main.46daabc0.chunk.js.map",
-    "runtime-main.js": "/gaut_m/static/js/runtime-main.f85cb41e.js",
-    "runtime-main.js.map": "/gaut_m/static/js/runtime-main.f85cb41e.js.map",
-    "static/js/2.18f382be.chunk.js": "/gaut_m/static/js/2.18f382be.chunk.js",
-    "static/js/2.18f382be.chunk.js.map": "/gaut_m/static/js/2.18f382be.chunk.js.map",
+    "main.css": "/gaut_m/static/css/main.bacfe306.chunk.css",
+    "main.js": "/gaut_m/static/js/main.4c1ee6db.chunk.js",
+    "main.js.map": "/gaut_m/static/js/main.4c1ee6db.chunk.js.map",
+    "runtime-main.js": "/gaut_m/static/js/runtime-main.b6bb7196.js",
+    "runtime-main.js.map": "/gaut_m/static/js/runtime-main.b6bb7196.js.map",
+    "static/js/2.14f5d2a6.chunk.js": "/gaut_m/static/js/2.14f5d2a6.chunk.js",
+    "static/js/2.14f5d2a6.chunk.js.map": "/gaut_m/static/js/2.14f5d2a6.chunk.js.map",
     "index.html": "/gaut_m/index.html",
-    "precache-manifest.e915403837a2307246596076d6a295df.js": "/gaut_m/precache-manifest.e915403837a2307246596076d6a295df.js",
+    "precache-manifest.766e4b86ee93605d81abbea4d86101c2.js": "/gaut_m/precache-manifest.766e4b86ee93605d81abbea4d86101c2.js",
     "service-worker.js": "/gaut_m/service-worker.js",
-    "static/css/main.74b7617a.chunk.css.map": "/gaut_m/static/css/main.74b7617a.chunk.css.map",
-    "static/js/2.18f382be.chunk.js.LICENSE.txt": "/gaut_m/static/js/2.18f382be.chunk.js.LICENSE.txt"
+    "static/css/main.bacfe306.chunk.css.map": "/gaut_m/static/css/main.bacfe306.chunk.css.map",
+    "static/js/2.14f5d2a6.chunk.js.LICENSE.txt": "/gaut_m/static/js/2.14f5d2a6.chunk.js.LICENSE.txt",
+    "static/media/BAS-Snippet.png": "/gaut_m/static/media/BAS-Snippet.bba2c6e7.png",
+    "static/media/CTD-Snippet.png": "/gaut_m/static/media/CTD-Snippet.3967c7d9.png",
+    "static/media/Mat-Snippet.png": "/gaut_m/static/media/Mat-Snippet.a215092d.png",
+    "static/media/Twitter_Organizer-Snippet.png": "/gaut_m/static/media/Twitter_Organizer-Snippet.ba7ab0ae.png",
+    "static/media/btc.gif": "/gaut_m/static/media/btc.4cfb87e9.gif",
+    "static/media/profile_gaut.jpg": "/gaut_m/static/media/profile_gaut.b9b649e0.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f85cb41e.js",
-    "static/js/2.18f382be.chunk.js",
-    "static/css/main.74b7617a.chunk.css",
-    "static/js/main.46daabc0.chunk.js"
+    "static/js/runtime-main.b6bb7196.js",
+    "static/js/2.14f5d2a6.chunk.js",
+    "static/css/main.bacfe306.chunk.css",
+    "static/js/main.4c1ee6db.chunk.js"
   ]
 }
