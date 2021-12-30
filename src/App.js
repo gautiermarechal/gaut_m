@@ -14,7 +14,7 @@ import i18n from "i18next";
 import { PROJECTS_FR } from "./data/projectsFR";
 import { useTranslation } from "react-i18next";
 import ReactGA from "react-ga";
-const TRACKING_ID = "297998031";
+const TRACKING_ID = "G-7M1MCVQPZK";
 ReactGA.initialize(TRACKING_ID);
 
 const App = () => {
